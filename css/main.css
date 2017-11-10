@@ -6,4 +6,10 @@
   background-color: #ffe500;
 }
 
-.seats {}
+.seats {
+  border: 1px solid #0c0b0b;
+  display: inline-block;
+  height: 100px;
+  width: 200px;
+
+}
